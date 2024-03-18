@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2654'
     url: http://www.gutenberg.org/2009/agents/2654
     wikipedia: https://en.wikipedia.org/wiki/Havelock_Ellis
+covers:
+- cover_type: archival
+  image_path: 73042-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, Radclyffe
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45238
     wikipedia: https://en.wikipedia.org/wiki/Radclyffe_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73042#The-well-of-loneliness
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
